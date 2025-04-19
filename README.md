@@ -12,7 +12,7 @@
 🔨 If you're an investor looking to **support new businesses**, **CrowdLift** helps you find seekers  
 
 ## 📱 My Projects 
-🌟🚀**CrowdLift App** → [GitHub Repo](https://github.com/Shikha-0903/CrowdLift) 
+🚀**CrowdLift App** → [GitHub Repo](https://github.com/Shikha-0903/CrowdLift)
 🔥 **DIY-Making App** → [GitHub Repo](https://github.com/Shikha-0903/diy-app)  
 🎨 **ArtGallery** → [GitHub Repo](https://github.com/Shikha-0903/ArtGallery)  
 📖 **Phonebook App** → [GitHub Repo](https://github.com/Shikha-0903/PhoneBook)
