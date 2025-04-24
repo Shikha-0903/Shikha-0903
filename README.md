@@ -2,8 +2,8 @@
 🚀 Passionate about **Flutter, App Development, Python** along with hands-on experience with Python and a growing interest in **Data Science, Artificial Intelligence, and Machine Learning**  
 
 ## 🔥 About Me  
-- 👀 Interested in **Flutter, App Development, Python, and Internet Network Security**  
-- 🌱 Currently learning **Data Structures**  
+- 👀 Interested in **Flutter, App Development, Python, and AI ML**  
+- 🌱 Currently learning **Data Science**  
 - 💞️ Looking to **collaborate** on **App Development & Python projects**  
 - 📱 Currently working on **CrowdLift**, an Android application that connects **creators & investors**  
 
