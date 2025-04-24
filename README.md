@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shikha Prajapati!  
-🚀 Passionate about **Flutter, App Development, Python & Cybersecurity**  
+🚀 Passionate about **Flutter, App Development, Python** along with hands-on experience with Python and a growing interest in **Data Science, Artificial Intelligence, and Machine Learning**  
 
 ## 🔥 About Me  
 - 👀 Interested in **Flutter, App Development, Python, and Internet Network Security**  
